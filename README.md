@@ -1,20 +1,26 @@
-Interests:
+👋 Hi, I'm @UrBoiTaeef 👋 
 
-Artificial Intelligence and Machine Learning
-Embedded Systems
-Problem Solving and Algorithms
-Data Structures
-Currently Learning:
+👀 I'm interested in:
 
-Advanced Machine Learning Techniques
-Exploring new applications of AI in various domains
-Looking to collaborate on:
+* Artificial Intelligence and Machine Learning
+* Embedded Systems
+* Problem Solving and Algorithms
+* Data Structures
 
-Open-source AI/ML projects
-Projects involving Embedded C programming
-Competitive programming challenges
-How to reach me:
+🌱 I'm currently learning:
 
-Email: taeefhere@gmail.com
-GitHub: @UrBoiTaeef
-Pronouns: He/Him
+* Advanced Machine Learning Techniques
+* Exploring new applications of AI in various domains
+
+💞️ I'm looking to collaborate on:
+
+* Open-source AI/ML projects
+* Projects involving Embedded C programming
+* Competitive programming challenges
+
+📫 How to reach me:
+
+* Email: taeefhere@gmail.com
+* GitHub: @UrBoiTaeef
+
+😄 Pronouns: He/Him
