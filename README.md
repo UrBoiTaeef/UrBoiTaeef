@@ -10,12 +10,11 @@
 🌱 I'm currently learning:
 
 * Advanced Machine Learning Techniques
-* Exploring new applications of AI in various domains
+*Exploring how web applications can be developed using Flask.
 
 💞️ I'm looking to collaborate on:
 
 * Open-source AI/ML projects
-* Projects involving Embedded C programming
 * Competitive programming challenges
 
 📫 How to reach me:
