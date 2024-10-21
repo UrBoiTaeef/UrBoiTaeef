@@ -8,9 +8,9 @@
 * Data Structures
 
 🌱 I'm currently learning:
+  - Advanced Machine Learning Techniques.
+  - Exploring how web applications can be developed using Flask.
 
-* Advanced Machine Learning Techniques                             
-*Exploring how web applications can be developed using Flask.
 
 💞️ I'm looking to collaborate on:
 
